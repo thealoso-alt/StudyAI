@@ -1,0 +1,8 @@
+{
+  "name": "Remix StudyAI – Trợ lý học tập AI",
+  "description": "Gia sư học tập AI thông minh dành cho học sinh Việt Nam từ THCS đến THPT: hỏi đáp, ôn bài, giải bài tập từng bước và luyện trắc nghiệm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
